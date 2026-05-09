@@ -44,7 +44,7 @@ portfolio/
 
 ## 🔗 Live Demo
 
-[View Portfolio](https://badrinathvemula.github.io/My-Portfolio/)
+[View Portfolio](https://badrinathvemula.github.io/CodeAlpha_taskes/Task_1/)
 
 ---
 
