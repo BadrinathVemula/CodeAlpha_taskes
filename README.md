@@ -23,7 +23,6 @@ A modern responsive developer portfolio website built using HTML and CSS.
 - CSS3
 
 ### 🔗 Live Demo
-## 🔹 Task_1 — protfolio
 [View Portfolio](https://badrinathvemula.github.io/CodeAlpha_taskes/Task_1/)
 
 ---
