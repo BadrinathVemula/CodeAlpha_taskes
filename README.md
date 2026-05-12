@@ -29,7 +29,8 @@ A modern responsive developer portfolio website built using HTML and CSS.
 
 ## 🔹 Task_2 — Coming Soon
 
-Project will be added soon.
+Music Player
+[view player](https://badrinathvemula.github.io/CodeAlpha_taskes/Task_2/)
 
 ---
 
