@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Music Player</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div class="player">
+    <img id="cover" src="assets/images/7 years.jpg" alt="Song Cover">
+
+    <h2 id="title">7 Years</h2>
+    <p id="artist">Lukas Graham</p>
+
+    <audio id="audio" src="assets/music/7_years.mp3"></audio>
+
+    <div class="time">
+      <span id="currentTime">0:00</span>
+      <span id="duration">0:00</span>
+    </div>
+
+    <input type="range" id="progress" value="0" min="0" max="100">
+
+    <div class="controls">
+      <button id="prevBtn">⏮</button>
+      <button id="playBtn">▶</button>
+      <button id="nextBtn">⏭</button>
+    </div>
+
+    <div class="volume">
+      <span>🔊</span>
+      <input type="range" id="volumeSlider" min="0" max="100" value="80">
+    </div>
+
+    <div id="playlist"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
